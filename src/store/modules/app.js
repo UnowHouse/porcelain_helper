@@ -1,8 +1,8 @@
 import Cookies from 'js-cookie'
-import iView from 'iview'
+// import iView from 'iview'
 import Vue from 'vue'
 
-Vue.use(iView)
+// Vue.use(iView)
 const app = {
   state: {
     sidebar: {
